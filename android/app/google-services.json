@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315771526654",
+    "firebase_url": "https://bubble-c9a94.firebaseio.com",
+    "project_id": "bubble-c9a94",
+    "storage_bucket": "bubble-c9a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315771526654:android:138d230b70b839aba034af",
+        "android_client_info": {
+          "package_name": "co.test.bubbleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315771526654-2nvj2s2dvnbvhs0itd337nei3qfitmju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.test.bubbleapp",
+            "certificate_hash": "46637130296cb1ada6d3436adee4ffba7039e038"
+          }
+        },
+        {
+          "client_id": "315771526654-07uc12abl726pvrbcqh82275lbbspesp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19RJiJCRxvwwlWwFR_8NpRWOUaCPfcSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315771526654-07uc12abl726pvrbcqh82275lbbspesp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
